@@ -1,3 +1,5 @@
 #this is my first class 
 class variables
-     ==>4
+{
+    variable is actually 14
+} 
